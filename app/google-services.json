@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "908445147978",
+    "firebase_url": "https://w2wtexi.firebaseio.com",
+    "project_id": "w2wtexi",
+    "storage_bucket": "w2wtexi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908445147978:android:f54070af5c3a9be6dc97b3",
+        "android_client_info": {
+          "package_name": "com.example.w2w_texi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908445147978-ertg7n8q2hpalnf6ae44arrqmib1f403.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXIyx1ri-AdyZWnjAtNJRjgwpxINz5BZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908445147978-ertg7n8q2hpalnf6ae44arrqmib1f403.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
